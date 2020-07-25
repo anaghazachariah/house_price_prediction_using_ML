@@ -1,5 +1,7 @@
 
 Beginner level price predictor program using python3.8.3
+credits:    https://www.youtube.com/watch?v=iIkJrwVUl1c
+            https://www.codewithharry.com/videos/ml-tutorials-in-hindi-20
 
 About Data Set
 *************
